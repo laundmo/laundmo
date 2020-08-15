@@ -2,7 +2,7 @@
 <a href="https://github.com/laundmo/multiton"><img src="https://gh-card.dev/repos/laundmo/multiton.svg"></a>
 <a href="https://github.com/laundmo/packpng"><img src="https://gh-card.dev/repos/laundmo/packpng.svg"></a>
 
-## Interresting projects i have worked on:
+## Interesting projects I have worked on:
 
 <table>
   <tr>
@@ -11,7 +11,7 @@
   </tr>
     <tr>
     <td><a href="https://github.com/laundmo/modmail_docker"><img src="https://gh-card.dev/repos/laundmo/modmail_docker.svg"></a></td>
-    <td>A Cookicutter for setting up docker_compose running kyb3r/modmail, which is a discord bot that allows people to open a direct channel to a discord servers moderators.</td>
+    <td>A Cookicutter for setting up docker_compose running kyb3r/modmail, which is a Discord bot that allows people to open a direct channel to a Discord servers moderators.</td>
   </tr>
    </tr>
     <tr>
