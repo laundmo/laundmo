@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/laundmo/multiton">
+<a href="https://github.com/laundmo/prawvents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=prawvents&theme=nord" /><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.python.org/pypi/prawvents"><img src="https://img.shields.io/pypi/v/prawvents.svg"></a>
 </a><br/>
