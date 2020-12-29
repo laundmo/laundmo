@@ -24,3 +24,7 @@
     <td>I mainly provide the servers, technical advice and do code reviews for Kolumbao a Discord cross-server communication bot.</td>
   </tr>
 </table>
+
+# Stats
+
+[![laundmos's github stats](https://github-readme-stats.vercel.app/api?username=laundmo)](https://github.com/anuraghazra/github-readme-stats)
