@@ -1,21 +1,29 @@
 ## Projects i actively work on:
+<a href="https://github.com/laundmo/multiton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=multiton&theme=vision-friendly-dark" /><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.python.org/pypi/multiton"><img src="https://img.shields.io/pypi/v/multiton.svg"></a><a href="https://travis-ci.com/laundmo/multiton"><img src="https://img.shields.io/travis/laundmo/multiton.svg"></a><a href="https://multiton.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/multiton/badge/?version=latest"></a>
+</a>
 
-<a href="https://github.com/laundmo/multiton"><img src="https://gh-card.dev/repos/laundmo/multiton.svg"></a><br>
-<a href="https://pypi.python.org/pypi/multiton"><img src="https://img.shields.io/pypi/v/multiton.svg"></a><a href="https://travis-ci.com/laundmo/multiton"><img src="https://img.shields.io/travis/laundmo/multiton.svg"></a><a href="https://multiton.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/multiton/badge/?version=latest"></a>
+<br/>
 
- <a href="https://github.com/laundmo/prawvents"><img src="https://gh-card.dev/repos/laundmo/prawvents.svg"></a><br>
-<a href="https://pypi.python.org/pypi/prawvents"><img src="https://img.shields.io/pypi/v/prawvents.svg"></a>
+<a href="https://github.com/laundmo/multiton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=prawvents&theme=vision-friendly-dark" /><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.python.org/pypi/prawvents"><img src="https://img.shields.io/pypi/v/prawvents.svg"></a>
+</a><br/>
 
 
 ## Interesting projects I have worked on:
 
 <table>
   <tr>
-    <td width="470px"><a href="https://github.com/laundmo/RSA-message-encrypt"><img src="https://gh-card.dev/repos/laundmo/RSA-message-encrypt.svg"></a></td>
+    <td width="470px">
+<a href="https://github.com/laundmo/RSA-message-encrypt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=RSA-message-encrypt&theme=vision-friendly-dark" /><br/></a></td>
     <td> A CLI for encrypting and decrypting text using RSA </td>
   </tr>
     <tr>
-    <td><a href="https://github.com/laundmo/modmail_docker"><img src="https://gh-card.dev/repos/laundmo/modmail_docker.svg"></a></td>
+    <td>
+     
+<a href="https://github.com/laundmo/modmail_docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=modmail_docker&theme=vision-friendly-dark" /><br/></a></td>
     <td>A Cookicutter for setting up docker_compose running kyb3r/modmail, which is a Discord bot that allows people to open a direct channel to a Discord servers moderators.</td>
   </tr>
    </tr>
@@ -27,4 +35,5 @@
 
 # Stats
 
-[![laundmos's github stats](https://github-readme-stats.vercel.app/api?username=laundmo)](https://github.com/anuraghazra/github-readme-stats)
+[![laundmos's github stats](https://github-readme-stats.vercel.app/api?username=laundmo&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/laundmo/)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laundmo&langs_count=8&theme=vision-friendly-dark&hide=html)](https://github.com/laundmo/)
