@@ -3,9 +3,9 @@
 <a href="https://github.com/laundmo/multiton"><img src="https://gh-card.dev/repos/laundmo/multiton.svg"></a><br>
 <a href="https://pypi.python.org/pypi/multiton"><img src="https://img.shields.io/pypi/v/multiton.svg"></a><a href="https://travis-ci.com/laundmo/multiton"><img src="https://img.shields.io/travis/laundmo/multiton.svg"></a><a href="https://multiton.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/multiton/badge/?version=latest"></a>
 
- <a href="https://github.com/laundmo/packpng"><img src="https://gh-card.dev/repos/laundmo/packpng.svg"></a><br>
-<a href="https://coveralls.io/github/laundmo/packpng?branch=master"><img src="https://coveralls.io/repos/github/laundmo/packpng/badge.svg?branch=master&service=github"></a>
-<a href="https://travis-ci.com/laundmo/packpng"><img src="https://travis-ci.com/laundmo/packpng.svg?branch=master"></a>
+ <a href="https://github.com/laundmo/prawvents"><img src="https://gh-card.dev/repos/laundmo/prawvents.svg"></a><br>
+<a href="https://coveralls.io/github/laundmo/prawvents?branch=master"><img src="https://coveralls.io/repos/github/laundmo/prawvents/badge.svg?branch=master&service=github"></a>
+<a href="https://travis-ci.com/laundmo/prawvents"><img src="https://travis-ci.com/laundmo/prawvents.svg?branch=master"></a>
 
 
 ## Interesting projects I have worked on:
