@@ -28,7 +28,7 @@
   </tr>
    </tr>
     <tr>
-    <td><a href="https://kolumbao.com/"><img height="100px" src="https://github.com/Kolumbao/kolumbao.github.io/raw/master/img/logo_nom.png"></a></td>
+    <td><a href="https://kolumbao.com/"><img height="100px" src="https://kolumbao.com/img/logo/blackname.svg"></a></td>
     <td>I mainly provide the servers, technical advice and do code reviews for Kolumbao a Discord cross-server communication bot.</td>
   </tr>
 </table>
