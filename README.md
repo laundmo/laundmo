@@ -1,4 +1,4 @@
-## Projects i actively work on:
+## Projects
 <a href="https://github.com/laundmo/multiton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laundmo&repo=multiton&theme=nord" /><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pypi.python.org/pypi/multiton"><img src="https://img.shields.io/pypi/v/multiton.svg"></a><a href="https://travis-ci.com/laundmo/multiton"><img src="https://img.shields.io/travis/laundmo/multiton.svg"></a><a href="https://multiton.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/multiton/badge/?version=latest"></a>
@@ -12,7 +12,7 @@
 </a><br/>
 
 
-## Interesting projects I have worked on:
+## Past Projects
 
 <table>
   <tr>
